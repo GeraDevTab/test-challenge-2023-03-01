@@ -17,3 +17,4 @@ const getUser = id => {
 // console.log(getUser(3));
 
 module.exports = {getUsers , getUser};
+
